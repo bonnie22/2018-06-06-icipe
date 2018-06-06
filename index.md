@@ -226,10 +226,8 @@ and our administrator may contact you if we need any extra information.</h4>
 
   If you want to use an Etherpad, go to
 
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
-
-  where 'YYYY-MM-DD-site' is the identifier for your workshop,
-  e.g., '2015-06-10-esu'.
+      http://pad.software-carpentry.org/2018-06-06-icipe
+      
 {% endcomment %}
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
